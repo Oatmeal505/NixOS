@@ -20,9 +20,9 @@
   games = true; # Enable/Disable gaming module
 
   # Hardware
-  hostname = "Singularity";
+  hostname = "TerrorPad";
   videoDriver = "intel"; # nvidia, amdgpu, intel
-  bluetoothSupport = false; # Whether your motherboard supports bluetooth
+  bluetoothSupport = true; # Whether your motherboard supports bluetooth
 
   # Localization
   timezone = "Europe/London";
