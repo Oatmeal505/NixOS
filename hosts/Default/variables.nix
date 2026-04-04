@@ -25,10 +25,10 @@
   bluetoothSupport = false; # Whether your motherboard supports bluetooth
 
   # Localization
-  timezone = "Europe/London";
-  locale = "en_GB.UTF-8";
+  timezone = "Australia/Melbourne";
+  locale = "en_AU.UTF-8";
   clock24h = true;
-  kbdLayout = "gb";
-  kbdVariant = "extd";
-  consoleKeymap = "uk";
+  kbdLayout = "us,au";
+  kbdVariant = "";
+  consoleKeymap = "us";
 }
