@@ -37,7 +37,7 @@
     unrar # Tool For Handling .rar Files
     unzip # Tool For Handling .zip Files
     # aider-chat # AI in terminal (Optional: Client only)
-    # cmatrix # Matrix Movie Effect In Terminal
+    cmatrix # Matrix Movie Effect In Terminal
     # cowsay # Great Fun Terminal Program
     # duf # Utility For Viewing Disk Usage In Terminal
     # dysk # Disk space util nice formattting
@@ -47,12 +47,13 @@
     # inxi # CLI System Information Tool
     # libsForQt5.qt5.qtgraphicaleffects # Sddm Dependency (Old)
     # libnotify # For Notifications
+    libreoffice-qt
     # lolcat # Add Colors To Your Terminal Command Output
     # lshw # Detailed Hardware Information
     # mpv # Incredible Video Player
     # ncdu # Disk Usage Analyzer With Ncurses Interface
     # nixfmt-rfc-style # Nix Formatter
-    # nwg-displays # configure monitor configs via GUI
+    nwg-displays # configure monitor configs via GUI
     # onefetch # provides zsaneyos build info on current system
     # pavucontrol # For Editing Audio Levels & Devices
     # pciutils # Collection Of Tools For Inspecting PCI Devices

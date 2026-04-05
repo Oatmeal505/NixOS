@@ -74,10 +74,6 @@
     SkipOnboarding = true;
   };
   ExtensionSettings = {
-    "*" = {
-      blocked_install_message = "Addon is not added in the nix config";
-      installation_mode = "blocked";
-    };
     "uBlock0@raymondhill.net" = {
       private_browsing = true;
       default_area = "navbar";
