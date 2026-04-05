@@ -45,6 +45,7 @@
     # gemini-cli # CLI AI client ONLY (optional)
     # glxinfo # needed for inxi diag util
     # inxi # CLI System Information Tool
+    kdePackages.krdc
     # libsForQt5.qt5.qtgraphicaleffects # Sddm Dependency (Old)
     # libnotify # For Notifications
     libreoffice-qt
@@ -68,7 +69,7 @@
     # waypaper # Change wallpaper
     # wget # Tool For Fetching Files With Links
     # ytmdl # Tool For Downloading Audio From YouTube
-
+    
     # devenv
     # devbox
     # shellify
