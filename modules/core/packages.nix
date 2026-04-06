@@ -42,6 +42,7 @@
     # duf # Utility For Viewing Disk Usage In Terminal
     # dysk # Disk space util nice formattting
     # ffmpeg # Terminal Video / Audio Editing
+    freshfetch
     # gemini-cli # CLI AI client ONLY (optional)
     # glxinfo # needed for inxi diag util
     # inxi # CLI System Information Tool
