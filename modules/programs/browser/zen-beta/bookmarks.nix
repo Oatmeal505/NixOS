@@ -14,6 +14,14 @@
           url = "https://github.com/";
         }
         {
+          name = "Canvus"
+          url = "https://swinburne.instructure.com/" 
+        }
+        {
+          name = "MS Teams" 
+          url = "https://teams.microsoft.com/v2/"
+        }
+        {
           name = "NixOS";
           bookmarks = [
             {
