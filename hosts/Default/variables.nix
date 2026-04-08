@@ -7,7 +7,7 @@
   # Theme & Appearance
   bar = "waybar"; # waybar, hyprpanel, noctalia
   waybarTheme = "minimal"; # stylish, minimal
-  sddmTheme = "astronaut"; # astronaut, black_hole, purple_leaves, jake_the_dog, hyprland_kath
+  sddmTheme = "black_hole"; # astronaut, black_hole, purple_leaves, jake_the_dog, hyprland_kath
   defaultWallpaper = "galaxy.webp"; # Change with SUPER + SHIFT + W (Hyprland)
   hyprlockWallpaper = "galaxy.webp";
 
